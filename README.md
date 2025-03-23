@@ -1,5 +1,5 @@
 
-##About Me
+### 👩🏿‍💻 About Me
 I am a results-oriented software engineer working with the JavaScript stack proficient in React.js, Node.js, Typescript, GraphQL, Dart, and Flutter, seeking a challenging role in developing scalable and user-friendly applications. I am passionate about Agile software development and thus enjoy contributing to Agile teams.
 
 🚀 My personal motto: "Let's use programming to make the world a better place."
