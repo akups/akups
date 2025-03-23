@@ -1,5 +1,4 @@
 
-<!--
 **akups/akups** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +19,4 @@ I am a results-oriented software engineer working with the JavaScript stack prof
 
 Let’s connect!
 
--->
+
