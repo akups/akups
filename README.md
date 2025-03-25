@@ -8,9 +8,12 @@ My journey started with late-night coding sessions and hackathons, which led me 
 
 💻 Programming Languages: JavaScript, TypeScript
 🔧 Technologies & Tools: React, Node.js, Next.js, Express, GraphQL, PostgreSQL, MongoDB, Docker, Webpack, Jest
-☁ Cloud: AWS (Lambda, S3, DynamoDB), Firebase, Vercel
-📊 Methodologies: SCRUM, Agile, TDD, BDD
-🌐 Interests: Full Stack Development, ata-Rich Applications, Software Architecture, Scalable Web Apps and Developer Experience.
+
+☁ Cloud: AWS (Lambda, S3), Firebase.
+
+📊 Methodologies: SCRUM, Agile, TDD.
+
+🌐 Interests: Full Stack Development, Data-Rich Applications, Software Architecture, Scalable Web Apps and Developer Experience.
 
 🎤 When I’m not coding, I’m singing my heart out or enjoying a plate of jollof rice. Also, I love brisk walking—great for brainstorming new tech ideas!
 
