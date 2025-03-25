@@ -1,19 +1,17 @@
+### 👩🏾‍💻 About Me: 
+I am a results-oriented software engineer with 5 years of successful software delivery experience. Expert in JavaScript, TypeScript, React, Node.js and Flutter. Interested in serverless architecture, microservices, and scalable web apps. Delivered an MVP that won a Berlin Startup Scholarship & built robust, high-performance web platforms.
 
-### 👩🏿‍💻 About Me
-I am a results-oriented software engineer working with the JavaScript stack proficient in React.js, Node.js, Typescript, GraphQL, Dart, and Flutter, seeking a challenging role in developing scalable and user-friendly applications. I am passionate about Agile software development and thus enjoy contributing to Agile teams.
+🛠 From Hackathons to High-Impact Startups
+My journey started with late-night coding sessions and hackathons, which led me to build scalable web applications and high-performing APIs. I thrive in fast-paced environments, delivering maintainable, efficient solutions. Currently, I specialize in crafting seamless user experiences while ensuring backend scalability.
 
-🚀 My personal motto: "Let's use programming to make the world a better place."
+🚀 My motto: “Build fast, optimize faster.”
 
-💻 Programming Languages: JavaScript, TypeScript, Dart
+💻 Programming Languages: JavaScript, TypeScript
+🔧 Technologies & Tools: React, Node.js, Next.js, Express, GraphQL, PostgreSQL, MongoDB, Docker, Webpack, Jest
+☁ Cloud: AWS (Lambda, S3, DynamoDB), Firebase, Vercel
+📊 Methodologies: SCRUM, Agile, TDD, BDD
+🌐 Interests: Full Stack Development, ata-Rich Applications, Software Architecture, Scalable Web Apps and Developer Experience.
 
-🔧 Technologies & Tools: React, Node.js, Express.js, GraphQL, Flutter, Cypress,PostgreSQL, Babel, OAuth2, JWT, RESTful APIs, TDD, Webpack, Redis, MongoDB, Nginx, MySQL, SQL, DevOps, JIRA, AI Coding Tools (ChatGPT, GitHub Co-Pilot)
-
-☁️ Cloud: CI/CD, Git, Gitlab, AWS Lambda, AWS S3, AWS EC2, AWS RDS, AWS Lambda, API Gateway, S3, Prometheus, Terraform, CDNs, CloudFront, Docker
-
-📊 Methodologies: SCRUM, Agile, TDD
-
-🤔 Interests Data-Rich Applications, Software Architecture
-
-Let’s connect!
+🎤 When I’m not coding, I’m singing my heart out or enjoying a plate of jollof rice. Also, I love brisk walking—great for brainstorming new tech ideas!
 
 
