@@ -5,7 +5,9 @@ I am a results-oriented software engineer with 5 years of successful software de
 
 🚀 My motto: “Let's use programming to make the world a better place, building fast and optimizing faster.”
 
-💻 Programming Languages: JavaScript, TypeScript 🔧 Technologies & Tools: React, Node.js, Next.js, Express, GraphQL, PostgreSQL, MongoDB, Docker, Webpack, Jest. 
+💻 Programming Languages: JavaScript, TypeScript, Dart. 
+
+🔧 Technologies & Tools: React, Node.js, Next.js, Express, GraphQL, Flutter, PostgreSQL, MongoDB, Docker, Webpack, Jest. 
 
 ☁ Cloud: AWS (Lambda, S3), Firebase.
 
