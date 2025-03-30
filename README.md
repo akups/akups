@@ -1,7 +1,7 @@
 ### 👩🏾‍💻 About Me: 
 I am a results-oriented software engineer with 5 years of successful software delivery experience. Expert in JavaScript, TypeScript, React, Node.js and Flutter. Interested in scalable web apps. Delivered an MVP that won a Berlin Startup Scholarship & built robust, high-performance web platforms.
 
-🛠 From Personal Projects to High-Impact Startups My journey started with late-night coding sessions and personal projects, which led me to build scalable web applications and high-performing APIs. I thrive in fast-paced environments, delivering maintainable, efficient solutions in Agile teams. Currently, I specialize in crafting seamless user experiences while ensuring backend scalability.
+🛠 From Personal Projects to High-Impact Startups: My journey started with late-night coding sessions and personal projects, which led me to build scalable web applications and high-performing APIs. I thrive in fast-paced environments, delivering maintainable, efficient solutions in Agile teams. Currently, I specialize in crafting seamless user experiences while ensuring backend scalability.
 
 🚀 My motto: “Let's use programming to make the world a better place, building fast and optimizing faster.”
 
